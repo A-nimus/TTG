@@ -6,8 +6,6 @@ For this you will just need an app called Termux.
 Termux is a free app available in playstore.
 You can just go there and install it right away.
 
-### ***Prerequisites***
-truth-table-generator 
 
 ### *STEPS*
 Open bash shell or Termux in android and execute the following commands:
